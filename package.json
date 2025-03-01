@@ -1,6 +1,7 @@
 {
-	"name": "obsidian-sample-plugin",
+	"name": "obsidian-daily-stats-by-git",
 	"version": "1.0.0",
+	"type": "module",
 	"description": "This is a sample plugin for Obsidian (https://obsidian.md)",
 	"main": "main.js",
 	"scripts": {
